@@ -17,6 +17,8 @@ A full working React client for a WhatsApp clone written in latest versions of:
 
 This React client is constantly being updated by using CI tests and renovate.
 
+[GraphQL Code Generator - Introducing Hooks support for React Apollo plugin](https://the-guild.dev/blog/graphql-codegen-hooks-support-react-apollo)
+
 You can watch this repository to learn about new updates or check out the git diffs between new versions on the [tutorial's version diff pages](https://www.tortilla.academy/Urigo/WhatsApp-Clone-Tutorial) (at the top of the screen).
 
 It can be used as a boilerplate, a full blown example app and even as a [tutorial](https://github.com/Urigo/WhatsApp-Clone-Tutorial).
